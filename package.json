@@ -1,0 +1,20 @@
+{
+  "name": "knex-alert",
+  "version": "1.0.0",
+  "description": "Rasing an alert when the response time exceeds the threshold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knex"
+  ],
+  "author": "K LEE",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "knex": "^0.16.3",
+    "mysql": "^2.16.0"
+  }
+}
