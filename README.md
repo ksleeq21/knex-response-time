@@ -4,7 +4,7 @@ Print logs if the knex query response time exceeds the threshold.
 
 ## Usage
 
-Create .env from env.sample and replace MySQL variables with correct data.
+Create .env using env.sample and replace MySQL variables with correct data.
 
 Install dependencies using the command `npm i`.
 
